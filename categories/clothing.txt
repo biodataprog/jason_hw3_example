@@ -1,0 +1,22 @@
+T-shirt
+blouse
+coat
+collared shirt
+dress
+dress pants
+hat
+mittens
+overalls
+pants
+polo shirt
+scarf
+shoes
+shorts
+skirt
+snow pants
+socks
+suit
+swim suit
+tank top
+tie
+vest

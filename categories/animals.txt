@@ -1,0 +1,21 @@
+alligator
+bear
+bird
+cat
+cow
+crab
+deer
+dog
+elephant
+fish
+frog
+giraffe
+horse
+kangaroo
+lizard
+monkey
+mountain lion
+octopus
+pig
+rhinoceros
+sheep
